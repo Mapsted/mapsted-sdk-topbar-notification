@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		schozlYGyfi8SNwBWndqAhV3s84=
+		taYgToE0u4A7yTyPgU2gItXlnGk=
 		</data>
 		<key>Modules/MapstedTopBarNotification.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		0Fmg1yv3gzUM9plSSR/9K8xf0hg=
+		O6P3eLHsjIgPRQnQKvvm7a0+Mog=
 		</data>
 		<key>Modules/MapstedTopBarNotification.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/MapstedTopBarNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		mO3aRWXDJ7Gnm8pwDQpCjXXCpmw=
+		cm8g9g1nwqNJypaj2aEKeuBKe3Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -253,7 +253,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Y9LdL4khIS/jusm+1nx6BpOvAYzbhYlfmHjK4dT5Bs=
+			FgPdXUJPAZ93fhAOy85vy7b9/wn1Ts2HjXsMtwFy2qc=
 			</data>
 		</dict>
 		<key>Modules/MapstedTopBarNotification.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -288,7 +288,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g1o7RBUaikSzQH1yMOJ2sdMAJELPwbuL+Z7rkJVnwDY=
+			Q7eg/AC8FcgyKBXjLiUFYqSM77JasPD2/L9vNBd6ho0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
